@@ -84,7 +84,7 @@ We can reject the null hypothesis using a standard significance level of 0.05 be
 
 ## Study Design: MechaCar vs Competition
 
-#### Study: How much of impact does color of vehicle have on its resale value. MechaCar vs Competition
+#### Study: How much of impact does color of vehicle have on its resale value? MechaCar vs Competition
 
 ##### A few questions that could be asked
 
