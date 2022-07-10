@@ -18,7 +18,7 @@ above, statistical summary of the linear regression model
 
 ### Summary
 
-* Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+* Question? Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
  PR(.|t|) value in the summary (image above, and below) represent the proability that each coefficient contributes a ramdom amount of variance to the linear model. 
  
