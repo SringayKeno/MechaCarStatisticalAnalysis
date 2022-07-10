@@ -17,6 +17,10 @@ The data analytics team will do the following:
 
 ### Summary
 
+1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+2. Is the slope of the linear model considered to be zero? Why or why not?
+3. Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+
 
 ## Summary Statistics on Suspension Coils
 <img width="439" alt="Screenshot (271)" src="https://user-images.githubusercontent.com/102890151/178132486-d91482f1-2533-429c-bce5-3d63c384b929.png">
@@ -35,4 +39,3 @@ The data analytics team will do the following:
 
 
 ## Design a Study Comparing the MechaCar to the Competition
-Files
