@@ -13,6 +13,7 @@ The data analytics team will do the following:
 
 ## Linear Regression to Predict MPG
 
+Below, statistical summary of the linear regression model
 <img width="818" alt="Screenshot (275)" src="https://user-images.githubusercontent.com/102890151/178132929-0df105f5-4588-4fd4-9980-2c8d888bff61.png">
 
 
@@ -24,6 +25,8 @@ The data analytics team will do the following:
 
 
 ## Summary Statistics on Suspension Coils
+
+
 <img width="439" alt="Screenshot (271)" src="https://user-images.githubusercontent.com/102890151/178132486-d91482f1-2533-429c-bce5-3d63c384b929.png">
 
 ### Summary
