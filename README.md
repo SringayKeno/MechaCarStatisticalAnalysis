@@ -82,23 +82,26 @@ We cannot reject the null hypothesis using a standard significance level of 0.05
 
 We can reject the null hypothesis using a standard significance level of 0.05 because our P-Value is 0.04168. Note that Lot 3 also has the smallest sample mean of the three lots at 1496.14.
 
-## Design a Study Comparing the MechaCar to the Competition. Study Design: MechaCar vs Competition
+## Study Design: MechaCar vs Competition
 
-#### Study: How much impact safety ratings has on a consumer's decision to buy a a certain vehicle. MechaCar vs Competition
+#### Study: How much of impact does color of vehicle have on its resale value. MechaCar vs Competition
+
+##### A few questions that could be asked
+
+Are Wild colors ok? Do sports cars with bland colors have the same resale as brighter colors? Do the more popular, subdued, traditional colors garner a higher resale value? Is the pool smaller for brighter colors, and hense maybe less resale value. 
 
 * What metric or metrics are you going to test? 
 
-Measured metrics would be safety ratings and the pruchase volume for each type of MechaCar produced. We want to see if there is a relationship between the safety rating of a vehicle vs the purchase volume of each type of vehicle.
+Measured metrics would be value of vehicle when sold, class of vehicle, color of vehicle along with other standard metrics that effect resale (condition of vehicle, miles, accident or no accident etc etc. Given two vehicles are equal, but different colors, is there a difference in price?
 
 What is the null hypothesis or alternative hypothesis? 
 
-* The null hypothesis would be there is no relationship between the safety rating and purchase volume of a vehicle
-* The alternative hypothesis would be that there is a relationship between safety rating and purchase volume of a vehicle
+The null hypothesis would be there is no relationship between the color of vehicle and resale price. The alternative hypothesis would be that there is a relationship between color and resale price of a vehicle.
 
 * What statistical test would you use to test the hypothesis? And why? 
 
-Since we are using categorical data, Chi-squared test would be used. Specifically, the ci-squared test for independence. Ultimately we are comparing the frequencies of vehicles purchased at each safety rating level.
+Since we are using both numerical and categorical data, One-Way ANOVA or Independent t test.
 
 * What data is needed to run the statistical test? 
 
-In order to run this test we would need the safety rating of each vehicle produced by MechaCar. Also needed how much of each type of MechaCar was purchased along with same info for competitors.
+In order to run this test we would need the price of vehicle when resold, class of vehicle, color of vehicle along with other standard metrics that effect resale (condition of vehicle, miles, accident or no accident etc etc. Also needed is same info for competitors.
