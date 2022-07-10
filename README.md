@@ -13,18 +13,24 @@ The data analytics team will do the following:
 
 ## Linear Regression to Predict MPG
 
-###Summary
+![Screenshot (467)](https://user-images.githubusercontent.com/102890151/178132461-3f34b45a-611a-4887-8efc-a8b1c5346546.png)
+
+### Summary
 
 
 ## Summary Statistics on Suspension Coils
 
-###Summary
+### Summary
 
 
 ## T-Test on Suspension Coils
 
+<img width="437" alt="Screenshot (274)" src="https://user-images.githubusercontent.com/102890151/178132456-3aaee353-64ae-4a0e-b374-c1c5f3c9e6a7.png">
 
-###Summary
+<img width="492" alt="Screenshot (273)" src="https://user-images.githubusercontent.com/102890151/178132451-3c817e77-b8df-476f-81a5-0a3d3275b61f.png">
+
+
+### Summary
 
 
 ## Design a Study Comparing the MechaCar to the Competition
