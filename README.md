@@ -13,17 +13,15 @@ The data analytics team will do the following:
 
 ## Linear Regression to Predict MPG
 
-
-Below, statistical summary of the linear regression model
 <img width="818" alt="Screenshot (275)" src="https://user-images.githubusercontent.com/102890151/178132929-0df105f5-4588-4fd4-9980-2c8d888bff61.png">
+above, statistical summary of the linear regression model
 
 ### Summary
 
 * Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
- PR(.|t|) value in the summary (image above) represent the proability that each coefficient contributes a ramdom amount of variance to the linear model. 
+ PR(.|t|) value in the summary (image above, and below) represent the proability that each coefficient contributes a ramdom amount of variance to the linear model. 
  
-
 <img width="426" alt="Screenshot (280)" src="https://user-images.githubusercontent.com/102890151/178148399-adc3b0aa-eda0-4e6d-aff4-5bba87e47635.png">
 
 
