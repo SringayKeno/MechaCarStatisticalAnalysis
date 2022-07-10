@@ -84,9 +84,21 @@ We can reject the null hypothesis using a standard significance level of 0.05 be
 
 ## Design a Study Comparing the MechaCar to the Competition. Study Design: MechaCar vs Competition
 
-Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
-In your description, address the following questions:
-What metric or metrics are you going to test?
-What is the null hypothesis or alternative hypothesis?
-What statistical test would you use to test the hypothesis? And why?
-What data is needed to run the statistical test?
+#### Study: How much impact safety ratings has on a consumer's decision to buy a car. MechaCar vs Competition
+
+What metric or metrics are you going to test? 
+
+Measured metrics would be safety ratings and the pruchase volume for each type of MechaCar produced. We want to see if there is a relationship between the safety rating of a vehicle vs the purchase volume of each type of vehicle.
+
+What is the null hypothesis or alternative hypothesis? 
+
+* The null hypothesis would be there is no relationship between the safety rating and purchase volume of a vehicle
+* The alternative hypothesis would be that there is a relationship between safety rating and purchase volume of a vehicle
+
+What statistical test would you use to test the hypothesis? And why? 
+
+Since we are using categorical data, Chi-squared test would be used. Specifically, the ci-squared test for independence. Ultimately we are comparing the frequencies of vehicles purchased at each safety rating level.
+
+What data is needed to run the statistical test? 
+
+In order to run this test we would need the safety rating of each vehicle produced by MechaCar. Also needed how much of each type of MechaCar was purchased along with same info for competitors.
