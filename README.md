@@ -10,3 +10,22 @@ The data analytics team will do the following:
 * Collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots
 * Run t-tests to determine if the manufacturing lots are statistically different from the mean population
 * Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis write a summary interpretation of the findings.
+
+## Linear Regression to Predict MPG
+
+###Summary
+
+
+## Summary Statistics on Suspension Coils
+
+###Summary
+
+
+## T-Test on Suspension Coils
+
+
+###Summary
+
+
+## Design a Study Comparing the MechaCar to the Competition
+Files
