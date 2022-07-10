@@ -19,7 +19,8 @@ Below, statistical summary of the linear regression model
 ### Summary
 
 * Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
- PR(.|t|) value in the summary (above) represent the proability that each coefficient contributes a ramdom amount of variance to the linear model. Using the MechaCar_mpg dataset, vehcicle_length and Ground_clearance (as well as the itercept) are statistically unlikely to provide random amount of variance to the linear model. The vehcicle_length and Ground_clearance have a significant impact on mpg.
+
+ PR(.|t|) value in the summary (above) represent the proability that each coefficient contributes a ramdom amount of variance to the linear model. Using the MechaCar_mpg dataset, vehcicle_length and Ground_clearance (as well as the itercept) are statistically unlikely to provide random amount of variance to the linear model. The vehicle_length and ground_clearance have a significant impact on mpg.
 
 * Is the slope of the linear model considered to be zero? Why or why not?
 * Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
