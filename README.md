@@ -27,8 +27,14 @@ above, statistical summary of the linear regression model
 Looking at the individual Pr(>|t|) values, the variables that were less than 0.05 were for the intercept, vehicle length and ground clearance. This means that the intercept, vehicle length and ground clearance are statistically unlikely to provide random amounts of variance to the linear model.In other words, vehicle length and ground clearance do have a significant impact on miles per gallon (mpg). Additionally, with the intercept being significant which tells us there is a significant amount of variability in the dependent variable when all independent variables are equal to zero, we may need to scale or transform the data.
 
 
-* Is the slope of the linear model considered to be zero? Why or why not?
-* Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+* Question? Is the slope of the linear model considered to be zero? Why or why not?
+
+Using a significance level of 0.05, we can reject the null hypothesis because our p-value is 5.35e-11 (0.0000000000535). In a typical linear regression, the null hypothesis states that slope is equal to 0. However, if the null hypothesis is rejected, as in the case here the slope is not 0.
+
+
+* Question? Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+
+Based on the calculations, this linear model does predict mpg of MechaCar prototypes adequately. The r-squared value showed a strong correlation ( 0.71) and p-value showed significance. 
 
 
 ## Summary Statistics on Suspension Coils
