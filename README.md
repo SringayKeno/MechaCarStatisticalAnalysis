@@ -59,8 +59,10 @@ With the information from the summaries we can see that, as a total, the lots do
 
 <img width="492" alt="Screenshot (273)" src="https://user-images.githubusercontent.com/102890151/178132451-3c817e77-b8df-476f-81a5-0a3d3275b61f.png">
 
+Above results of t-tests. First image, all lots. Second image lots 1, lots2 and lots 3 individually
 
-### Summary
+
+### Summary T-Test on Suspension Coils
 
 
 ## Design a Study Comparing the MechaCar to the Competition. Study Design: MechaCar vs Competition
