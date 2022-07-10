@@ -13,7 +13,7 @@ The data analytics team will do the following:
 
 ## Linear Regression to Predict MPG
 
-![Screenshot (367)](https://user-images.githubusercontent.com/102890151/178132461-3f34b45a-611a-4887-8efc-a8b1c5346546.png)
+![Screenshot (267)](https://user-images.githubusercontent.com/102890151/178132461-3f34b45a-611a-4887-8efc-a8b1c5346546.png)
 
 ### Summary
 
