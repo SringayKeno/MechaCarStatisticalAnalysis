@@ -24,9 +24,8 @@ above, statistical summary of the linear regression model
  
 <img width="426" alt="Screenshot (280)" src="https://user-images.githubusercontent.com/102890151/178148399-adc3b0aa-eda0-4e6d-aff4-5bba87e47635.png">
 
+Looking at the individual Pr(>|t|) values, the variables that were less than 0.05 were for the intercept, vehicle length and ground clearance. This means that the intercept, vehicle length and ground clearance are statistically unlikely to provide random amounts of variance to the linear model.In other words, vehicle length and ground clearance do have a significant impact on miles per gallon (mpg). Additionally, with the intercept being significant which tells us there is a significant amount of variability in the dependent variable when all independent variables are equal to zero, we may need to scale or transform the data.
 
- 
-Using the MechaCar_mpg dataset, vehicle_length and ground_clearance (as well as the itercept) are statistically unlikely to provide random amount of variance to the linear model. *The vehicle_length and ground_clearance have a significant impact on mpg.*
 
 * Is the slope of the linear model considered to be zero? Why or why not?
 * Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
