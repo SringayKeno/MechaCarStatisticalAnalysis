@@ -13,6 +13,7 @@ The data analytics team will do the following:
 
 ## Linear Regression to Predict MPG
 
+
 Below, statistical summary of the linear regression model
 <img width="818" alt="Screenshot (275)" src="https://user-images.githubusercontent.com/102890151/178132929-0df105f5-4588-4fd4-9980-2c8d888bff61.png">
 
@@ -22,7 +23,9 @@ Below, statistical summary of the linear regression model
 
  PR(.|t|) value in the summary (image above) represent the proability that each coefficient contributes a ramdom amount of variance to the linear model. 
  
-<img width="422" alt="Screenshot (278)" src="https://user-images.githubusercontent.com/102890151/178148217-c5222702-951e-4775-a183-b791e14913f7.png">
+
+<img width="426" alt="Screenshot (280)" src="https://user-images.githubusercontent.com/102890151/178148399-adc3b0aa-eda0-4e6d-aff4-5bba87e47635.png">
+
 
  
 Using the MechaCar_mpg dataset, vehicle_length and ground_clearance (as well as the itercept) are statistically unlikely to provide random amount of variance to the linear model. *The vehicle_length and ground_clearance have a significant impact on mpg.*
