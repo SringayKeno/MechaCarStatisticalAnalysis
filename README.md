@@ -29,7 +29,7 @@ Looking at the individual Pr(>|t|) values, the variables that were less than 0.0
 
 * Is the slope of the linear model considered to be zero? Why or why not?
 
-Using a significance level of 0.05, we can reject the null hypothesis because our p-value 5.35e-11 (0.0000000000535) is > 0.05. In a typical linear regression, the null hypothesis states that slope is equal to 0. However, if the null hypothesis is rejected, as in the case here the slope is not 0.
+Using a significance level of 0.05, we can reject the null hypothesis because our p-value 5.35e-11 (0.0000000000535) is < 0.05. In a typical linear regression, the null hypothesis states that slope is equal to 0. However, if the null hypothesis is rejected, as in the case here the slope is not 0.
 
 
 
