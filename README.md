@@ -16,10 +16,10 @@ The data analytics team will do the following:
 Below, statistical summary of the linear regression model
 <img width="818" alt="Screenshot (275)" src="https://user-images.githubusercontent.com/102890151/178132929-0df105f5-4588-4fd4-9980-2c8d888bff61.png">
 
-
 ### Summary
 
 * Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+
 * Is the slope of the linear model considered to be zero? Why or why not?
 * Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
