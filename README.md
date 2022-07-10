@@ -88,7 +88,7 @@ We can reject the null hypothesis using a standard significance level of 0.05 be
 
 ##### A few questions that could be asked
 
-Are Wild colors ok? Do sports cars with bland colors have the same resale as brighter colors? Do the more popular, subdued, traditional colors garner a higher resale value? Is the pool smaller for brighter colors, and hense maybe less resale value. 
+Are wild colors ok? Do sports cars with bland colors have the same resale as brighter colors? Do the more popular, subdued, traditional colors garner a higher resale value? Is the pool smaller for brighter colors, and hence maybe less resale value? 
 
 * What metric or metrics are you going to test? 
 
