@@ -84,7 +84,7 @@ We can reject the null hypothesis using a standard significance level of 0.05 be
 
 ## Design a Study Comparing the MechaCar to the Competition. Study Design: MechaCar vs Competition
 
-#### Study: How much impact safety ratings has on a consumer's decision to buy a car. MechaCar vs Competition
+#### Study: How much impact safety ratings has on a consumer's decision to buy a a certain vehicle. MechaCar vs Competition
 
 What metric or metrics are you going to test? 
 
