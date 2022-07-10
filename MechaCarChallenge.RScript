@@ -1,0 +1,48 @@
+
+##mod 15 challenge
+
+##delivery 1
+
+##libraries
+library(dplyr)
+
+
+##read in
+MechaCarChallenge.RScript <- read.csv(file='MechaCar_mpg.csv',check.names=F,stringsAsFactors = F)
+
+###linear regress
+lm(mpg ~ vehicle_length + vehicle_weight + spoiler_angle + ground_clearance + AWD,data = MechaCarChallenge.RScript)
+
+##sumarry
+summary
+(lm(mpg ~ vehicle_length + vehicle_weight + spoiler_angle + ground_clearance + AWD,data = MechaCarChallenge.RScript))
+
+
+##delivery 2
+
+##read in
+coil_psi <- read.csv(file='Suspension_Coil.csv',check.names=F,stringsAsFactors = F)
+
+##summary dataFrame- summarize
+total_summary <- coil_psi %>% summarize(Mean = mean(PSI), Median = median(PSI), Variance = var(PSI), SD = sd(PSI))
+
+##lot summary by manu with summarize
+lot_summary <- coil_psi %>% group_by(Manufacturing_Lot)%>% summarize(Mean = mean(PSI), Median = median(PSI), Variance = var(PSI), SD = sd(PSI))
+
+
+##delivary 3
+
+##psi xcross all manu lots how diff from 1500psi (pop mean)
+t.test(coil_psi$PSI, mu=1500)
+
+## psi for each individual lot from 1500psi (pop mean)
+Lot1 =subset(coil_psi, Manufacturing_Lot == "Lot1")
+Lot2 =subset(coil_psi, Manufacturing_Lot == "Lot2")
+Lot3 =subset(coil_psi, Manufacturing_Lot == "Lot3")
+
+#Lot1
+t.test(Lot1$PSI, mu = 1500)
+##Lot2
+t.test(Lot2$PSI, mu = 1500)
+##Lot3
+t.test(Lot3$PSI, mu= 1500)
