@@ -66,19 +66,21 @@ Above results of t-tests. First result, all lots followed by results from Lot 1,
 
 Conducting t-test to determine if the PSI across all manufacturing lots is statistically different from the population mean of 1,500 pounds per square inch and then conducting t-tests for each manufacturing lot.
 
+#### All Lots (1,2,3)
+
 The first t-test was used to determine if the PSI across all manufacturing lots is statistically different from the population mean (1500 psi). The result of the t-test showed that there was a sample mean of 1,498.78 and a p-value of 0.06. Because our p-value is higher than the assumed statistical significance of 0.05, we fail to reject the null hypothesis. This means that the PSI across all manufacturing lots is statistically similar to the population mean.
 
 #### Lot 1
 
-Lot 1 results show that the sample mean is 1,500 and the p-value is a perfect 1. There is no statistical difference from the population mean of 1,500 pounds per square inch. In this case, we fail to reject the null hypothesis.
+Lot 1's Sample mean is 1,500 and the p-value is a perfect 1. There is no statistical difference from the population mean. In this case, we fail to reject the null hypothesis.
 
 #### Lot 2
 
-For lot 2, we cannot reject the null hypothesis using a standard significance level of 0.05 because our P-Value is 0.6072.
+We cannot reject the null hypothesis using a standard significance level of 0.05 because P-Value is 0.6072.
 
 #### Lot 3
 
-For lot 3, we can reject the null hypothesis using a standard significance level of 0.05 because our P-Value is 0.04168. Lot 3 also has the smallest sample mean of the three lots, 1496.14.
+We can reject the null hypothesis using a standard significance level of 0.05 because our P-Value is 0.04168. Note that Lot 3 also has the smallest sample mean of the three lots at 1496.14.
 
 ## Design a Study Comparing the MechaCar to the Competition. Study Design: MechaCar vs Competition
 
